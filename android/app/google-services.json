@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610716927847",
+    "firebase_url": "https://employee-db-2327240063-default-rtdb.firebaseio.com",
+    "project_id": "employee-db-2327240063",
+    "storage_bucket": "employee-db-2327240063.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610716927847:android:e3dc8821c7bb307b8091c2",
+        "android_client_info": {
+          "package_name": "com.example.employee_malfatihabdurrohim_2327240063"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHVF2yxCNxGLk0FAKZlrKwAjolyzZikQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
